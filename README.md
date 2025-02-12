@@ -54,7 +54,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
    git clone https://github.com/seu-usuario/random-forest-classifier.git
    ```
 
-2. Faça o download do arquivo `titanic.csv` do Kaggle e coloque-o na pasta do projeto.
+2. Faça o download do arquivo `titanic.csv` que está aqui ou baixei diretamente do Kaggle o arquivo train e coloque-o na pasta do projeto.
 
 3. Execute o script para realizar a análise e treinar os modelos de Machine Learning.
 
