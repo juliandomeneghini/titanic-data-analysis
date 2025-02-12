@@ -107,5 +107,5 @@ Sinta-se à vontade para contribuir com melhorias ou sugestões para este reposi
 
 ---
 
-**Autor**: Seu Nome  
+**Autor**: Júlian Domeneghini
 **Data**: Fevereiro 2025  
