@@ -51,7 +51,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/random-forest-classifier.git
+   git clone https://github.com/juliandomeneghini/titanic-data-analysis.git
    ```
 
 2. Faça o download do arquivo `titanic.csv` que está aqui ou baixei diretamente do Kaggle o arquivo train e coloque-o na pasta do projeto.
